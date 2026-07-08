@@ -14,6 +14,12 @@ This repository contains my journey of learning Python, AI, and Machine Learning
 - Mathematical calculations
 - Practiced indexing and slicing
 
+- ### 3. Employee Data Analysis (Pandas)
+- Analyzed employee dataset using Pandas
+- Performed filtering and data selection
+- Worked with DataFrames and columns
+- Applied conditions (e.g., department filtering)
+
 ## 🛠️ Technologies Used
 - Python
 
