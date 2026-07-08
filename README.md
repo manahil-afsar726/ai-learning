@@ -20,6 +20,20 @@ This repository contains my journey of learning Python, AI, and Machine Learning
 - Worked with DataFrames and columns
 - Applied conditions (e.g., department filtering)
 
+- ## 4. Pandas Transaction Data Analysis
+Practiced core pandas operations on a transaction dataset (10,000 records) using Python.
+
+**What I did:**
+- Loaded data and explored it (`head()`, `info()`, `describe()`)
+- Filtered rows based on Account_Type
+- Sorted data by Total_Balance (descending)
+- Converted Transaction_Date to datetime and extracted the year
+- Used groupby to find yearly totals and multi-level averages (Account_Type + Investment_Type)
+- Checked for missing values
+- Built a pivot table (Account_Type vs Investment_Type)
+
+**File:** `pandas_analysis.py`
+
 ## 🛠️ Technologies Used
 - Python
 
