@@ -9,6 +9,11 @@ This repository contains my journey of learning Python, AI, and Machine Learning
 - Uses functions, conditions, and classes
 - Manages student data and reports
 
+- ### 2. NumPy Practice
+- Basic array operations
+- Mathematical calculations
+- Practiced indexing and slicing
+
 ## 🛠️ Technologies Used
 - Python
 
