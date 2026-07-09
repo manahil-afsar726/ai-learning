@@ -48,3 +48,14 @@ print(df.isnull().sum())
 
 pivot=df.pivot_table(index="Account_Type", columns="Investment_Type", values="Transaction_Amount",aggfunc="mean")
 print(pivot)
+
+result = df[(df["Account_Type"]=="Savings") & (df["Total_Balance"]>50000)]
+print(len(result))
+
+print(df["Investment_Type"].value_counts())
+
+print("Max Transaction:", df["Transaction_Amount"].max())
+print("Min Transaction:", df["Transaction_Amount"].min())
+
+df["Investment_Percentage"] = (df["Investment_Amount"] / df["Total_Balance"])*100
+print(df[["Total_Balance", "Investment_Amount", "Investment_Percentage"]].head())
