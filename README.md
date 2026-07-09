@@ -31,6 +31,10 @@ Practiced core pandas operations on a transaction dataset (10,000 records) using
 - Used groupby to find yearly totals and multi-level averages (Account_Type + Investment_Type)
 - Checked for missing values
 - Built a pivot table (Account_Type vs Investment_Type)
+- - Applied multiple filter conditions (Account_Type + Total_Balance)
+- Used value_counts() on Investment_Type
+- Found max and min Transaction_Amount
+- Created a calculated column for Investment Percentage
 
 **File:** `pandas_analysis.py`
 
