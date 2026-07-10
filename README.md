@@ -36,6 +36,10 @@ Practiced core pandas operations on a transaction dataset (10,000 records) using
 - Found max and min Transaction_Amount
 - Created a calculated column for Investment Percentage
 
+- ## 5. Data Visualization with Matplotlib
+Created various visualizations for the transaction dataset to understand patterns and distributions.
+**File:** `visualization_practice.py`
+
 **File:** `pandas_analysis.py`
 
 ## 🛠️ Technologies Used
