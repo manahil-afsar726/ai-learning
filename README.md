@@ -39,8 +39,11 @@ Practiced core pandas operations on a transaction dataset (10,000 records) using
 - ## 5. Data Visualization with Matplotlib
 Created various visualizations for the transaction dataset to understand patterns and distributions.
 **File:** `visualization_practice.py`
-
 **File:** `pandas_analysis.py`
+
+## 6. Data Visualization with Seaborn
+Explored advanced visualizations using Seaborn for deeper insights into the transaction dataset.
+**File:** `seaborn_practice.py`
 
 ## 🛠️ Technologies Used
 - Python
