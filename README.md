@@ -45,6 +45,10 @@ Created various visualizations for the transaction dataset to understand pattern
 Explored advanced visualizations using Seaborn for deeper insights into the transaction dataset.
 **File:** `seaborn_practice.py`
 
+## 7. Statistics Basics
+Practiced core statistical concepts (mean, variance, standard deviation, correlation, percentiles) on the transaction dataset as a foundation for Machine Learning.
+**File:** `statistics_practice.py`
+
 ## 🛠️ Technologies Used
 - Python
 
