@@ -49,6 +49,10 @@ Explored advanced visualizations using Seaborn for deeper insights into the tran
 Practiced core statistical concepts (mean, variance, standard deviation, correlation, percentiles) on the transaction dataset as a foundation for Machine Learning.
 **File:** `statistics_practice.py`
 
+## 8. Machine Learning Basics (Regression & Classification)
+Built first ML models using scikit-learn — Linear Regression (predicting a number) and Logistic Regression (predicting a category) — and learned how data correlation impacts model performance.
+**File:** `ml_practice.py`
+
 ## 🛠️ Technologies Used
 - Python
 
